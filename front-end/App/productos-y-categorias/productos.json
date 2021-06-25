@@ -1,0 +1,91 @@
+[{
+    "producto": {
+        "codigo": "P1",
+        "nombre": "frijol",
+        "precio": 17,
+        "categoria": "C1",
+        "descripcion": "frijol negro, marca La Chula",
+        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Abarrotes/frijol.png"
+    }
+},
+{
+    "producto": {
+        "codigo": "P2",
+        "nombre": "guisantes",
+        "precio": 12,
+        "categoria": "C1",
+        "descripcion": "guisantes, Great Value, lata de 250 gr",
+        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Abarrotes/guisante.png"
+    }
+},
+{
+    "producto": {
+        "codigo": "P3",
+        "nombre": "Sopa",
+        "precio": 4,
+        "categoria": "C1",
+        "descripcion": "Sopa de pollo, Maggi",
+        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Abarrotes/sopas.png"
+    }
+},
+{
+    "producto": {
+        "codigo": "P4",
+        "nombre": "Agua",
+        "precio": 6,
+        "categoria": "C2",
+        "descripcion": "Agua Pura, Salvavidas",
+        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Bebidas/agua.png"
+    }
+},
+{
+    "producto": {
+        "codigo": "P5",
+        "nombre": "Gaseosa",
+        "precio": 24,
+        "categoria": "C2",
+        "descripcion": "Gaseosa pack: coca cola y sprite ",
+        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Bebidas/gaseosaPack.png"
+    }
+},
+{
+    "producto": {
+        "codigo": "P6",
+        "nombre": "Jugo",
+        "precio": 24,
+        "categoria": "C2",
+        "descripcion": "Jugo de naranja de la Granja",
+        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Bebidas/Jugo.png"
+    }
+},
+{
+    "producto": {
+        "codigo": "P7",
+        "nombre": "Crema",
+        "precio": 28,
+        "categoria": "C3",
+        "descripcion": "crema aloe vera, bioland",
+        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Belleza/crema.png"
+    }
+},
+{
+    "producto": {
+        "codigo": "P8",
+        "nombre": "Desmaquillante",
+        "precio": 33,
+        "categoria": "C3",
+        "descripcion": "Desmaquillante bifasico, Nivea",
+        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Belleza/Desmaquillante.png"
+    }
+},
+{
+    "producto": {
+        "codigo": "P9",
+        "nombre": "Adobado",
+        "precio": 34,
+        "categoria": "C4",
+        "descripcion": "Carne en adobado",
+        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/carnes/adobado.png"
+    }
+}
+]

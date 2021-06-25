@@ -1,0 +1,65 @@
+{
+    "listaCategorias":[
+        {
+            "id":1,
+            "nombre":"Abarrotes",
+            "image":"https://s3-us-west-2.amazonaws.com/wp-mpro-blog/wp-content/uploads/2018/10/26105753/Retail-de-supermercado.png"
+        },
+        {
+            "id":2,
+            "nombre":"Bebidas",
+            "image":"https://image.freepik.com/vector-gratis/conjunto-iconos-bebidas-bebidas-variedad-vasos-tazas-sobre-fondo-color_42560-126.jpg"
+        },
+        {
+            "id":3,
+            "nombre":"Carnes",
+            "image":"https://i.blogs.es/a6a88d/1366_20001/1366_2000.jpg"
+        },
+        {
+            "id":4,
+            "nombre":"Congelados",
+            "image":"https://www.clikisalud.net/wp-content/uploads/2016/07/comida-congelada.jpg"
+        },
+        {
+            "id":5,
+            "nombre":"Belleza",
+            "image":"https://bellezacheck.com/wp-content/uploads/los-mejores-productos-de-belleza.png"
+        },
+        {
+            "id":6,
+            "nombre":"Frutas y Verduras",
+            "image":"https://www.salud.mapfre.es/media/2016/07/prevencion-cancer-frutas-verduras-3-1100x408.jpg"
+        },
+        {
+            "id":7,
+            "nombre":"Limpiezas",
+            "image":"https://vanishingpointstudio.net/wp-content/uploads/2020/08/15278540712737.jpg"
+        },
+        {
+            "id":8,
+            "nombre":"Lacteos y Huevos",
+            "image":"https://image.freepik.com/foto-gratis/diferentes-tipos-productos-lacteos-frescos-huevos-placa-madera-productos-agricolas-naturales_132278-1689.jpg"
+        },
+        {
+            "id":9,
+            "nombre":"Mascotas",
+            "image":"https://image.freepik.com/vector-gratis/tienda-mascotas-diferentes-productos-animales-comida-juguete-mascota-domestica-tienda-cuidado-perros-gatos-ilustracion_277904-991.jpg"
+        },
+        {
+            "id":10,
+            "nombre":"Panaderia y Reposteria",
+            "image":"https://cdn.shopify.com/s/files/1/0469/3193/articles/panaderia_1024x1024.jpg?v=1581533723"
+        },
+        {
+            "id":11,
+            "nombre":"Quesos y Embutidos",
+            "image":"https://amhigo.com/images/actualidades/noticias/Nutricion/Varios-quesos-en-mesa.jpg"
+        },
+        {
+            "id":12,
+            "nombre":"Snacks y Confiteria",
+            "image":"https://futuroverdecdn.sfo2.cdn.digitaloceanspaces.com/wp-content/uploads/2020/10/empaques-snacks-no-reciclables.jpg"
+        }
+        
+    ]
+}
