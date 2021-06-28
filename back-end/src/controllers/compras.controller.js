@@ -138,7 +138,7 @@ compraCtrl.editarCompra = async(req, res) => {
                     }
                 </style>
             </head>
-            <h1>Supermercados</h1>
+            <h1>KAAN</h1>
             <h2>¡Hola ${username}!</h2>
             <p> Adjuntamos el detalle de tu compra <strong>${compraEdit._id}</strong> realizada el día ${compraEdit.fecha}</p>
             <p> Fecha de envío: ${fecha} </p>
@@ -146,7 +146,7 @@ compraCtrl.editarCompra = async(req, res) => {
             ${productos}
             <br>
             <b> Total compra: Q.${compraEdit.total}</b>
-            <p> ¡Gracias por confiar en "Supermercados", el lugar perfecto para que realices todas tus compras! </p>
+            <p> ¡Gracias por confiar en "KAAN", el lugar perfecto para que realices todas tus compras! </p>
             </div>`;
 
             email.sendFactura(usuario.correo, facturaHtml);

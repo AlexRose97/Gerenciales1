@@ -52,7 +52,8 @@ export default function Productos({ route, navigation }) {
   const [productos, setProductos] = React.useState([]);
 
   React.useEffect(() => {
-    fetch("https://gerenciales1.s3.amazonaws.com/productos.json")
+    //fetch("https://gerenciales1.s3.amazonaws.com/productos.json")
+    fetch(url)
       .then((response) => response.json())
       .then((json) => {
         console.log(json)

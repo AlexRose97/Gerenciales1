@@ -109,7 +109,7 @@ export default function Registro({ navigation }) {
       mediaTypes: ImagePicker.MediaTypeOptions.All,
       allowsEditing: true,
       aspect: [4, 4],
-      quality:0,
+      //quality:0,
       base64: true,
     });
 

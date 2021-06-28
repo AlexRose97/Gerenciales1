@@ -1,0 +1,11 @@
+{
+    "_id":{"$oid":"60669ce7fdc6f82c1f86a379"},
+    "rol":[{"$oid":"60d8e2dee5dcb8344ea2e3b4"}],
+    "username":"admin","nombre":"Administrador",
+    "fotografia":"https://s3.us-east-2.amazonaws.com/supermercado.g1/Usuarios/admin.PNG",
+    "fecha_nac":"01/01/1980","telefono":1234,"correo":"usac.sistemas2021@gmail.com",
+    "password":"$2a$10$fbTUpSrWXcAqFgsw9ztR7.VWjn6XGaZ5WbhdwbwE2mDtfivCGasZa",
+    "carrito":[],
+    "createdAt":{"$date":"2021-04-02T04:26:15.339Z"},
+    "updatedAt":{"$date":"2021-04-02T04:26:15.339Z"}
+}

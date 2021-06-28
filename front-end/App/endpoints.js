@@ -1,5 +1,5 @@
 //--recuerda no subir credenciales de aws, agregarlo en el gitignore
-const ip = "http://IP.../api"
+const ip = "http://52.87.229.237:4000/api"
 module.exports = {
 
   // API POST REGISTRO DE NUEVO USUARIO

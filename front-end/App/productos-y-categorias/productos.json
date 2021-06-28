@@ -1,91 +1,182 @@
-[{
-    "producto": {
-        "codigo": "P1",
-        "nombre": "frijol",
-        "precio": 17,
-        "categoria": "C1",
-        "descripcion": "frijol negro, marca La Chula",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Abarrotes/frijol.png"
+[
+    {
+        "producto":{
+            "codigo": "P1",
+            "nombre": "Gorra 001",
+            "precio": 150,
+            "categoria": "C1",
+            "descripcion": "Gorra azul y blanco.",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Gorra001.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P2",
+            "nombre": "Gorra 002",
+            "precio": 150,
+            "categoria": "C1",
+            "descripcion": "Gorra bordado",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Gorra002.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P3",
+            "nombre": "Gorra 003",
+            "precio": 150,
+            "categoria": "C1",
+            "descripcion": "Gorra escudo.",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Gorra003.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P4",
+            "nombre": "Gorra 004",
+            "precio": 150,
+            "categoria": "C1",
+            "descripcion": "Gorra quetzal.",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Gorra004.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P5",
+            "nombre": "Gorra 005",
+            "precio": 150,
+            "categoria": "C1",
+            "descripcion": "Gorra naranja.",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Gorra005.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P6",
+            "nombre": "Gorra 006",
+            "precio": 150,
+            "categoria": "C1",
+            "descripcion": "Gorra celeste escudo.",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Gorra006.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P7",
+            "nombre": "Gorra 007",
+            "precio": 150,
+            "categoria": "C1",
+            "descripcion": "Gorra beige escudo pequeño.",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Gorra007.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P8",
+            "nombre": "Gorra 008",
+            "precio": 150,
+            "categoria": "C1",
+            "descripcion": "Gorra bandera.",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Gorra008.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P9",
+            "nombre": "Gorra 009",
+            "precio": 150,
+            "categoria": "C1",
+            "descripcion": "Gorro blanco escudo.",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Gorra009.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P10",
+            "nombre": "Sombrero 001",
+            "precio": 200,
+            "categoria": "C2",
+            "descripcion": "Sombrero bordado",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Sombrero001.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P11",
+            "nombre": "Sombrero 002",
+            "precio": 200,
+            "categoria": "C2",
+            "descripcion": "Sombrero lazo negro",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Sombrero002.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P12",
+            "nombre": "Sombrero 003",
+            "precio": 200,
+            "categoria": "C2",
+            "descripcion": "Sombrero lazo tipico",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Sombrero003.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P13",
+            "nombre": "Sombrero 004",
+            "precio": 200,
+            "categoria": "C2",
+            "descripcion": "Sombrero lazo 3 colores",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Sombrero004.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P14",
+            "nombre": "Sombrero 005",
+            "precio": 200,
+            "categoria": "C2",
+            "descripcion": "Sombrero pequeño",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Sombrero005.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P15",
+            "nombre": "Sombrero 006",
+            "precio": 200,
+            "categoria": "C2",
+            "descripcion": "Sombrero bordado flor",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Sombrero006.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P16",
+            "nombre": "Sombrero 007",
+            "precio": 200,
+            "categoria": "C2",
+            "descripcion": "Sombrero pequeño blanco bordado flor",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Sombrero007.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P17",
+            "nombre": "Sombrero 008",
+            "precio": 200,
+            "categoria": "C2",
+            "descripcion": "Sombrero lazo blanco",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Sombrero008.jpg"
+        }
+    },
+    {
+        "producto":{
+            "codigo": "P18",
+            "nombre": "Sombrero 009",
+            "precio": 200,
+            "categoria": "C2",
+            "descripcion": "Sombrero lazo negro con broches",
+            "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/Sombrero009.jpg"
+        }
     }
-},
-{
-    "producto": {
-        "codigo": "P2",
-        "nombre": "guisantes",
-        "precio": 12,
-        "categoria": "C1",
-        "descripcion": "guisantes, Great Value, lata de 250 gr",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Abarrotes/guisante.png"
-    }
-},
-{
-    "producto": {
-        "codigo": "P3",
-        "nombre": "Sopa",
-        "precio": 4,
-        "categoria": "C1",
-        "descripcion": "Sopa de pollo, Maggi",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Abarrotes/sopas.png"
-    }
-},
-{
-    "producto": {
-        "codigo": "P4",
-        "nombre": "Agua",
-        "precio": 6,
-        "categoria": "C2",
-        "descripcion": "Agua Pura, Salvavidas",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Bebidas/agua.png"
-    }
-},
-{
-    "producto": {
-        "codigo": "P5",
-        "nombre": "Gaseosa",
-        "precio": 24,
-        "categoria": "C2",
-        "descripcion": "Gaseosa pack: coca cola y sprite ",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Bebidas/gaseosaPack.png"
-    }
-},
-{
-    "producto": {
-        "codigo": "P6",
-        "nombre": "Jugo",
-        "precio": 24,
-        "categoria": "C2",
-        "descripcion": "Jugo de naranja de la Granja",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Bebidas/Jugo.png"
-    }
-},
-{
-    "producto": {
-        "codigo": "P7",
-        "nombre": "Crema",
-        "precio": 28,
-        "categoria": "C3",
-        "descripcion": "crema aloe vera, bioland",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Belleza/crema.png"
-    }
-},
-{
-    "producto": {
-        "codigo": "P8",
-        "nombre": "Desmaquillante",
-        "precio": 33,
-        "categoria": "C3",
-        "descripcion": "Desmaquillante bifasico, Nivea",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Belleza/Desmaquillante.png"
-    }
-},
-{
-    "producto": {
-        "codigo": "P9",
-        "nombre": "Adobado",
-        "precio": 34,
-        "categoria": "C4",
-        "descripcion": "Carne en adobado",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/carnes/adobado.png"
-    }
-}
 ]

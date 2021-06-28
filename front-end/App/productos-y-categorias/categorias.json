@@ -1,62 +1,12 @@
 [
     {
         "codigo": "C1",
-        "nombre": "Abarrotes",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Abarrotes/abarrotes.jpg"
-    },
-    {
-        "codigo": "C3",
-        "nombre": "Belleza",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Belleza/belleza.jpg"
+        "nombre": "Gorras",
+        "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/CategoriaGorra.jpg"
     },
     {
         "codigo": "C2",
-        "nombre": "Bebidas",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Bebidas/bebidas.jpg"
-    },
-    {
-        "codigo": "C4",
-        "nombre": "Carnes",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/carnes/carnes.jpg"
-    },
-    {
-        "codigo": "C5",
-        "nombre": "Congelados",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/congelados/congelados.jpg"
-    },
-    {
-        "codigo": "C6",
-        "nombre": "Embutidos y quesos",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Embutidos+y+Queso/embutidos.jpg"
-    },
-    {
-        "codigo": "C7",
-        "nombre": "Frutas y Verduras",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Frutas+y+Verduras/frutas.jpg"
-    },
-    {
-        "codigo": "C8",
-        "nombre": "Leche y Huevos",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Leche+y+huevos/leche.jpg"
-    },
-    {
-        "codigo": "C9",
-        "nombre": "Limpieza",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Limpieza/limpieza.jpg"
-    },
-    {
-        "codigo": "C10",
-        "nombre": "Mascotas",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Mascotas/mascotas.jpg"
-    },
-    {
-        "codigo": "C11",
-        "nombre": "Panaderia",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Panaderia/panaderia.jpg"
-    },
-    {
-        "codigo": "C12",
-        "nombre": "Snacks y Confiteria",
-        "imagen": "https://s3.us-east-2.amazonaws.com/supermercado.g1/Snacks/snacks.jpg"
-    }
+        "nombre": "Sombreros",
+        "imagen": "https://gerenciales1.s3.amazonaws.com/imagenes/CategoriaSombrero.jpg"
+    }  
 ]

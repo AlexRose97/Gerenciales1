@@ -27,7 +27,8 @@ export default function Productos({ navigation }) {
   const [categorias, setCategorias] = React.useState([]);
 
   React.useEffect(() => {
-    fetch("https://gerenciales1.s3.amazonaws.com/categorias.json")
+    //fetch("https://gerenciales1.s3.amazonaws.com/categorias.json")
+    fetch(url)
       .then((response) => response.json())
       .then((json) => {
         return json;

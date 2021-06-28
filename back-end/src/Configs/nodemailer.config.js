@@ -17,9 +17,9 @@ module.exports.sendConfirmationEmail = (username, correo) => {
         from: user,
         to: correo,
         subject: "Correo de confirmación",
-        html: `<h1>Supermercados</h1>
+        html: `<h1>KAAN</h1>
           <h2>Bienvenido ${username}</h2>
-          <p> Gracias por subscribirse a "supermercados", el lugar perfecto para que realices todas tus compras. </p>
+          <p> Gracias por subscribirse a "KAAN", el lugar perfecto para que realices todas tus compras. </p>
           </div>`,
     }).catch(err => console.log(err));
 };
@@ -29,7 +29,7 @@ module.exports.sendRecoverPasswordEmail = (username, correo, codigo) => {
         from: user,
         to: correo,
         subject: "Recuperación de cuenta",
-        html: `<h1>Supermercados</h1>
+        html: `<h1>KAAN</h1>
         <h2>Hola ${username}</h2>
         <p> Hemos recibido una solicitud para acceder a tu cuenta, ${correo}, a través de tu dirección de correo electrónico. Tu contraseña temporal es: </p>
         <p> ${codigo} </p>
